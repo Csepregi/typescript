@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item renders snapshot 1`] = `
+<div
+  className="sc-AxiKw knEkBp"
+>
+  <span
+    className="sc-AxhCb fskuCH"
+    width="40%"
+  >
+    <a
+      href="https://reactjs.org/"
+    >
+      React
+    </a>
+  </span>
+  <span
+    className="sc-AxhCb fskKmg"
+    width="30%"
+  >
+    Jordan Walke
+  </span>
+  <span
+    className="sc-AxhCb fsljna"
+    width="10%"
+  >
+    3
+  </span>
+  <span
+    className="sc-AxhCb fsljna"
+    width="10%"
+  >
+    4
+  </span>
+  <span
+    className="sc-AxhCb fsljna"
+    width="10%"
+  >
+    <button
+      className="sc-AxhUy sc-AxgMl gopUbD"
+      onClick={[Function]}
+      type="button"
+    >
+      <svg
+        className="sc-fzoLsD hRhXYv"
+        height="18px"
+        width="18px"
+      >
+        <svg
+          height="18px"
+          width="18px"
+        >
+          check.svg
+        </svg>
+      </svg>
+    </button>
+  </span>
+</div>
+`;
